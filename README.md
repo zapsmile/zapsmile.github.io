@@ -1,2 +1,2 @@
 # zapsmile.github.io
-site
+fansite
