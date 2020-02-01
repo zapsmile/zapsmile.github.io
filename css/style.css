@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+html {
+  font-family: Ubuntu, sans-serif;
+}
+
+/* TODO: make it look pretty and shit */
+
+h1, h2 {
+  text-align: center;
+}
