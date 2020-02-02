@@ -8,12 +8,20 @@ html {
 
 /* TODO: make it look pretty and shit */
 
-h1, h2, h3 {
-  text-align: center;
-}
+
 
 .sitename {
   font-size: 75px;
   font-style: italic;
   color: #f7ff5e;
+  text-align: center;
+}
+
+.siteflavour {
+  font-style: italic;
+  text-align: center;
+}
+
+.blogpost {
+  padding-left: 100px;
 }
